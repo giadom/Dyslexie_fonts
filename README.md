@@ -1,2 +1,6 @@
-# Dyslexie_fonts
-A collection of fonts/typefaces (hopefully) helpful for dyslexical readers. They are listed without any order of preference!
+# List
+- <https://www.sinnos.org/leggimi/le-font/>
+- <https://www.biancoeneroedizioni.it/font/>
+- <https://www.sylexiad.com/download-typefaces/index.html>
+- <https://www.dyslexiefont.com/en/home/>
+- <https://opendyslexic.org/>
